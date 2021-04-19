@@ -1,7 +1,11 @@
 ! version = 2.0
 
 + hello
-- Hello, what is your name?
+- Ey, hows it going? 
+- Hows it going? 
+- Hi there 
+- Alright? 
+- Hello!
 
 + _
 % hello what is your name
